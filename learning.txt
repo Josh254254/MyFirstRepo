@@ -1,0 +1,1 @@
+I have learned how to create and manage repositories on GitHub, use branches to isolate work, and open pull requests to propose changes. I also practiced committing changes and reviewing commit history to track progress.
